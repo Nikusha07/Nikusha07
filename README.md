@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **swagger , docker**
 
-- 👯 I’m looking to collaborate on [benn-s-academy-front](https://github.com/nikamunjishvili/benn-s-academy-front)
+- 👯 I’m looking to collaborate on --------
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikusha07?tab=repositories](https://github.com/Nikusha07?tab=repositories)
 
