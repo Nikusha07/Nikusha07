@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikusha07?tab=repositories](https://github.com/Nikusha07?tab=repositories)
 
-- 📝 I regularly write articles on [when i was happy](when i was happy)
+- 📝 I regularly write articles on: when i was happy
 
 - 💬 Ask me about **react , next , node**
 
