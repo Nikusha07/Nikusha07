@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coding" width="100%" src="https://as1.ftcdn.net/v2/jpg/03/22/66/52/1000_F_322665228_OX6Q2GR76KNxsJnQLigEWapzG5jC1GQF.jpg" />
 <h1 align="center">Hi 👋, I'm nika tefnadze</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" />
