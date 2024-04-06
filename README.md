@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikatefnadze&label=Profile%20views&color=0e75b6&style=flat" alt="nikatefnadze" /> </p>
 
-- 🔭 I’m currently working on [nest-mongodb-base](https://github.com/Nikusha07/nestjs-mongo)
+- 🔭 I’m currently working on [nest-mongodb-base](https://github.com/Nikusha07/ecomerce-website)
 
 - 🌱 I’m currently learning **swagger , docker**
 
